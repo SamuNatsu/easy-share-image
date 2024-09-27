@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.iife.js","sources":["../src/main.ts"],"sourcesContent":["console.log('hello world');\n\nexport const test = (): string => {\n  return 'hellow';\n};\n"],"names":["console","log"],"mappings":"4CAAAA,QAAQC,IAAI,6BAEQ,IACX"}
